@@ -1,7 +1,7 @@
 {
-  "name": "karma-junit-reporter",
+  "name": "karma-sync-file-junit-reporter",
   "version": "1.2.0",
-  "description": "A Karma plugin. Report results in junit xml format.",
+  "description": "A Karma plugin. Report results in junit xml format. Write junit files synchronous.",
   "main": "index.js",
   "files": [
     "index.js"
